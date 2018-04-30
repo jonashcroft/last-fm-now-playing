@@ -10,4 +10,6 @@ This is a simple drop-in function which will retrieve track info from the `recen
 
 To use this, you'll need your last.fm username and API keys (which you can [generate from here](https://www.last.fm/api/account/create "generate from here"))
 
+This function even supports fallback artwork - because I've found that some 'obscure' tracks don't have album artwork on last.fm.
+
 I'm currently using this in the footer of [my blog](https://jonashcroft.co.uk "my blog")
